@@ -1,7 +1,7 @@
 ### Hello there! 👋
 
 <p>
-  I am currently working full-time as a <b>Senior Software Developer</b> primarily working with <b>.NET Core 5/6</b>. I also do hobby work for an online community, Mantle Network, where I provide all web related services working mostly with <b>Next JS</b>. Most of my work is now done through private repos on Azure so even though my activity might seem low, I am working on stuff all the time!
+  I am currently working full-time as a <b>Senior Software Developer</b> primarily working with <b>.NET Core 7</b>, <b>Entity Framework</b> using <b>Clean / Onion Architecture</b> implementing <b>CQRS</b>, <b>Repository Pattern</b> with <b>Specifications</b>. I also do hobby work for an online community, Mantle Network, where I provide all web related services working mostly with <b>Next JS</b>. Most of my work is now done through private repos on Azure so even though my activity might seem low, I am working on stuff all the time!
 </p>
 
 <p>
