@@ -27,8 +27,8 @@
 #### 📈 Statistics
 
 <p>
-  <img src ="https://github-readme-stats.vercel.app/api?username=Scarso327&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Scarso327&layout=compact&hide_border=true&langs_count=8&theme=transparent">
+  <img height=200 align="center" src ="https://github-readme-stats.vercel.app/api?username=Scarso327&show_icons=true&include_all_commits=true&count_private=true&theme=transparent">
+  <img height=200 align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Scarso327&layout=compact&langs_count=8&theme=transparent">
 </p>
 <p>
   Most of my work is now done through private repos on Azure so even though my activity might seem low, I am working on stuff all the time!
