@@ -1,6 +1,6 @@
 ### Hello 👋, I'm Jack!
 
-- 💻 I am currently working full-time as a <b>Senior Software Developer</b>
+- 💻 I am currently working full-time as a <b>Senior Software Engineer</b>
 - 🌱 I am currently learning all things **Microservices**, and **Distributed, Event-Driven, Architecture**
 - 📲 You can reach me via <a href="https://www.linkedin.com/in/jack-farhall-847259160/" target="blank"><img align="center"
       src="https://img.icons8.com/fluency/48/000000/linkedin.png"
@@ -31,7 +31,7 @@
   <img height=200 align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Scarso327&layout=compact&langs_count=8&theme=transparent">
 </p>
 <p>
-  Most of my work is now done through private repos on Azure so even though my activity might seem low, I am working on stuff all the time!
+  Most of my work is now done through private repositories, so even though my activity may seem low, I am continually working on projects.
 </p>
 
 ---
