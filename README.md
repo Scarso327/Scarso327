@@ -1,10 +1,7 @@
 ### Hello 👋, I'm Jack!
 
 - 💻 I am currently working full-time as a <b>Senior Software Engineer</b>
-- 🌱 I am currently learning all things **Microservices**, and **Distributed, Event-Driven, Architecture**
-- 📲 You can reach me via <a href="https://www.linkedin.com/in/jack-farhall-847259160/" target="blank"><img align="center"
-      src="https://img.icons8.com/fluency/48/000000/linkedin.png"
-      alt="jack farhall" height="18" width="18" /></a>
+- 📲 You can reach me via <a href="https://www.linkedin.com/in/jack-farhall-847259160/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="jack farhall" width="16" align="center" /></a>
 
 #### 🛠️ Tools & Languages
 
@@ -24,16 +21,5 @@
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-#### 📈 Statistics
-
-<p>
-  <img height=200 align="center" src ="https://github-readme-stats.vercel.app/api?username=Scarso327&show_icons=true&include_all_commits=true&count_private=true&theme=transparent">
-  <img height=200 align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Scarso327&layout=compact&langs_count=8&theme=transparent">
-</p>
-<p>
-  Most of my work is now done through private repositories, so even though my activity may seem low, I am continually working on projects.
-</p>
-
 ---
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](#)
 ![Profile Views: 0](https://komarev.com/ghpvc/?username=Scarso327)
